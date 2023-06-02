@@ -1,0 +1,47 @@
+.items {
+  list-style-type: none;
+  border: 1px solid #b5b7c4;
+  border-radius: 15px;
+  padding: 15px;
+  margin-bottom: 15px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.para {
+  color: #171f46;
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: bold;
+  margin: 0px;
+}
+
+.btn {
+  background: transparent;
+  padding: 0;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.star {
+  width: 20px;
+  height: 20px;
+  background: transparent;
+  align-self: center;
+  border: none;
+  outline: none;
+}
+
+.date {
+  color: #7e858e;
+  font-family: 'Roboto';
+  font-size: 15px;
+  margin: 0px;
+}
